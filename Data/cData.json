@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id":"1",
       "chef_picture": "https://example.com/chef1.jpg",
       "chef_name": "John Smith",
       "years_of_experience": 10,
@@ -10,7 +10,7 @@
       "view_recipes_button": "https://example.com/chef1/recipes"
     },
     {
-      "id": 2,
+      "id":"2",
       "chef_picture": "https://example.com/chef2.jpg",
       "chef_name": "Jane Doe",
       "years_of_experience": 5,
@@ -20,7 +20,7 @@
       "view_recipes_button": "https://example.com/chef2/recipes"
     },
     {
-      "id": 3,
+      "id": "3",
       "chef_picture": "https://example.com/chef3.jpg",
       "chef_name": "Mike Johnson",
       "years_of_experience": 15,
@@ -30,7 +30,7 @@
       "view_recipes_button": "https://example.com/chef3/recipes"
     },
     {
-      "id": 4,
+      "id":"4",
       "chef_picture": "https://example.com/chef4.jpg",
       "chef_name": "Sara Lee",
       "years_of_experience": 3,
@@ -40,7 +40,7 @@
       "view_recipes_button": "https://example.com/chef4/recipes"
     },
     {
-      "id": 5,
+      "id": "5",
       "chef_picture": "https://example.com/chef5.jpg",
       "chef_name": "David Chang",
       "years_of_experience": 20,
@@ -50,7 +50,7 @@
       "view_recipes_button": "https://example.com/chef5/recipes"
     },
     {
-      "id": 6,
+      "id": "6",
       "chef_picture": "https://example.com/chef6.jpg",
       "chef_name": "Alice Waters",
       "years_of_experience": 15,
