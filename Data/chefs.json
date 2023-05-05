@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Thomas Keller",
+    "specialty": "Pakistani cuisine",
+    "experience": "Experience 25 years",
+    "awards": [
+      "Masala TV Award for Best Cooking Expert",
+      "Lux Style Award for Best TV Chef"
+    ],
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
+        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "ratting": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Nihari",
+        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
+        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
+        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "ratting": 4
+      },
+      {
+        "id": 3,
+        "name": "Samosas",
+        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
+        "description": "A popular snack made with crispy pastry and a savory filling.",
+        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
+        "ratting": 4
+      }
+    ]
+    ,
+    "image": "https://images.wsj.net/im-553175?width=860&height=1075",
+    "likes": 12000,
+    "description": "Thomas Keller is an American chef and restaurateur. He is the owner and head chef of The French Laundry, a three-Michelin-starred restaurant in Yountville, California, as well as several other restaurants across the US.."
+  },
+  {
+    "id": 2,
+    "name": "Christina Tosi",
+    "specialty": "Pakistani cuisine",
+    "experience": "Experience 20 years",
+    "awards": ["Masala TV Award for Best Cooking Expert"],
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
+        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "ratting": 4.2
+      },
+      {
+        "id": 2,
+        "name": "Nihari",
+        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
+        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
+        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "ratting": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Samosas",
+        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
+        "description": "A popular snack made with crispy pastry and a savory filling.",
+        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
+        "ratting": 4.5
+      }
+    ]
+    ,
+    "image": "https://kids.kiddle.co/images/thumb/7/78/Christina-Tosi_%28cropped%29.JPG/300px-Christina-Tosi_%28cropped%29.JPG",
+    "likes": 8500,
+    "description": "Christina Tosi is an American chef and founder of the bakery chain Milk Bar. She is known for her innovative and playful desserts, including her signature Milk Bar pie."
+  },
+  {
+    "id": 3,
+    "name": "Emeril Lagasse",
+    "specialty": "Pakistani cuisine",
+    "experience": "Experience 22 years",
+    "awards": ["Masala TV Award for Best Cooking Expert"],
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
+        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "ratting": 4.3
+      },
+      {
+        "id": 2,
+        "name": "Nihari",
+        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
+        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
+        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "ratting": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Samosas",
+        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
+        "description": "A popular snack made with crispy pastry and a savory filling.",
+        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
+        "ratting": 4.5
+      }
+    ]
+    ,
+    "image": "https://qvc.scene7.com/is/image/QVC/pic/cd/sq1_left_emeril_20191117.jpg?qlt=95,1",
+    "likes": 6500,
+    "description": "Emeril Lagasse is an American celebrity chef and restaurateur. He is known for his Cajun and Creole cooking style and his catchphrases such as Bam and Kick it up a notch"
+  },
+  {
+    "id": 4,
+    "name": "Alice Waters",
+    "specialty": "Baking, Desserts",
+    "experience": "Over 15 years",
+    "awards": [
+      "Masala TV Award for Best Baking Expert"
+    ],
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
+        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "ratting": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Nihari",
+        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
+        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
+        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "ratting": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Samosas",
+        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
+        "description": "A popular snack made with crispy pastry and a savory filling.",
+        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
+        "ratting": 4.4
+      }
+    ]
+    ,
+    "image": "https://cdn.britannica.com/44/131344-050-5F349DBE/Chef-Alice-Waters-food.jpg",
+    "likes": 7500,
+    "description": "Alice Waters is an American chef, author, and activist. She is the founder of Chez Panisse, a restaurant in Berkeley, California, known for its use of local and organic ingredients."
+  },{
+    "id": 5,
+    "name": "Gordon Ramsay",
+    "specialty": "Pakistani cuisine",
+    "experience": "Over 20 years",
+    "awards": [
+      "Masala TV Award for Best Cooking Expert"
+    ],
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
+        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "ratting": 4.9
+      },
+      {
+        "id": 2,
+        "name": "Nihari",
+        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
+        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
+        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "ratting": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Samosas",
+        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
+        "description": "A popular snack made with crispy pastry and a savory filling.",
+        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
+        "ratting": 4.8
+      }
+    ]
+    ,
+    "image": "https://www.hachettebookgroup.com/wp-content/uploads/2017/06/GR.jpg?resize=500%2C700",
+    "likes": 5500,
+    "description": "Gordon Ramsay is a British chef and restaurateur who has gained popularity in the US through his TV shows such as Hell's Kitchen and MasterChef. He has several restaurants in the US, including his flagship restaurant, Restaurant Gordon Ramsay, in London."
+  },{
+    "id": 6,
+    "name": "Ina Garten",
+    "specialty": "Pakistani cuisine",
+    "experience": "Over 10 years",
+    "awards": [
+      "ARY Zauq Award for Best Chef"
+    ],
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "ingredients": ["rice", "meat (chicken, beef, or mutton)", "spices", "yogurt"],
+        "description": "A classic Pakistani dish made with flavored rice and meat, often served with raita.",
+        "cookingMethod": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until the flavors meld together.",
+        "img": "https://nishkitchen.com/wp-content/uploads/2014/01/M-CHICKEN-BIRYANI-1.jpg",
+        "ratting": 4.3
+      },
+      {
+        "id": 2,
+        "name": "Nihari",
+        "ingredients": ["beef or lamb shanks", "spices", "flour", "ginger", "garlic"],
+        "description": "A slow-cooked stew made with beef or lamb shanks and a flavorful spice blend.",
+        "cookingMethod": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typically served with naan or roti.",
+        "img": "https://startuppakistan.com.pk/wp-content/uploads/2022/10/baner-image-696x302.jpg",
+        "ratting": 4.5
+      },
+      {
+        "id": 3,
+        "name": "Samosas",
+        "ingredients": ["flour", "potatoes", "peas", "spices", "oil"],
+        "description": "A popular snack made with crispy pastry and a savory filling.",
+        "cookingMethod": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices. The samosas are then deep-fried until golden brown.",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/24/74/34/1000_F_524743443_yT4WaGxYPeRSuumCTTlqePTikOVpmJim.jpg",
+        "ratting": 4.2
+      }
+    ]
+    ,
+    "image": "https://static01.nyt.com/images/2020/11/18/dining/16Ina3/16Ina3-mediumSquareAt3X-v3.jpg",
+    "likes": 4800,
+    "description": "Ina Garten is an American author and TV host. She is known for her simple and elegant recipes, and her popular TV show Barefoot Contessa. She has also written several cookbooks, including The Barefoot Contessa Cookbook and Cooking for Jeffrey."
+}
+]
+
+
+
