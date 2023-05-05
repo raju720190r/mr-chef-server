@@ -3,8 +3,8 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 const port = process.env.PORT || 5000;
-const chefs = require('./data/chefs.json');
-const blogs = require('./data/blog.json')
+const chefs = require('./Data/chefs.json');
+const blogs = require('./Data/blog.json');
 app.get('/', (req, res) => {
     res.json({ message: 'Hello Server is Running' });
 });
